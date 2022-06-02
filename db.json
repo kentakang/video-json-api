@@ -1,0 +1,9 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "테스트 영상",
+      "url": "https://convatec-s3.s3.ap-northeast-2.amazonaws.com/Video.mp4"
+    }
+  ]
+}
