@@ -3,7 +3,16 @@
     {
       "id": 1,
       "name": "테스트 영상",
-      "url": "https://convatec-s3.s3.ap-northeast-2.amazonaws.com/Video.mp4"
+      "url": "https://convatec-s3.s3.ap-northeast-2.amazonaws.com/Video.mp4",
+      "description": "영상 설명입니다.\n영상 설명입니다.\n영상 설명입니다.",
+      "createdAt": "2022-06-02 14:43:19"
+    },
+    {
+      "id": 2,
+      "name": "테스트 영상2",
+      "url": "https://convatec-s3.s3.ap-northeast-2.amazonaws.com/Video.mp4",
+      "description": "영상 설명2입니다.\n영상 설명2입니다.\n영상 설명2입니다.",
+      "createdAt": "2022-06-02 14:43:19"
     }
   ]
 }
